@@ -14,7 +14,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 * Created a new column R called `Average Donation` that uses a formula to uncover how much each backer for the project paid on average.
 
-* Created two new columns, one called `Category` at Q and another called `Sub-Category` at R, which use formulas to split the `Category and Sub-Category` column into two parts.
+* Created two new columns, one called `Category` at S and another called `Sub-Category` at T, which use formulas to split the `Category and Sub-Category` column into two parts.
 
 * Created a new sheet with a pivot table that analyzes initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
 
